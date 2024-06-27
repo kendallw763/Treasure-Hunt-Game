@@ -1,5 +1,6 @@
 # Treasure-Hunt-Game
-![Pirate](https://github.com/kendallw763/Treasure-Hunt-Game/assets/63067332/8dd40e4d-516a-4103-986d-4d2096289f26) ![Screenshot 2024-06-27 at 11 14 38 AM](https://github.com/kendallw763/Treasure-Hunt-Game/assets/63067332/721435e5-6a49-4d27-b25a-48bb96bf724b)
+![Pirate](https://github.com/kendallw763/Treasure-Hunt-Game/assets/63067332/8dd40e4d-516a-4103-986d-4d2096289f26)![Screenshot 2024-06-27 at 11 14 38 AM](https://github.com/kendallw763/Treasure-Hunt-Game/assets/63067332/721435e5-6a49-4d27-b25a-48bb96bf724b)![Screenshot 2024-06-27 at 11 16 48 AM](https://github.com/kendallw763/Treasure-Hunt-Game/assets/63067332/62f06a99-e581-42f6-8fba-f4114e625da4)
+
 
 
 Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
